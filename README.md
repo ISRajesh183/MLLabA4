@@ -8,6 +8,7 @@ Exp4 - Ensemble Prediction and Decision Tree Evaluation on Wisconsin Diagnostic 
 - seaborn
 - scikit-learn
 - ucimlrepo
+- xgboost
 
 ## Datasets
 - Wisconsin Diagnostic Dataset (UCI)
