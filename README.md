@@ -1,5 +1,5 @@
-# MLLabA4
-Exp4 - Ensemble Prediction and Decision Tree Evaluation on Wisconsin Diagnostic Dataset
+# MLLabA5
+Exp5 - Perceptron vs Multilayer Perceptron (A/B Experiment) with Hyperparameter Tuning
 
 ## Libraries Used
 - numpy
@@ -11,7 +11,7 @@ Exp4 - Ensemble Prediction and Decision Tree Evaluation on Wisconsin Diagnostic 
 - xgboost
 
 ## Datasets
-- Wisconsin Diagnostic Dataset (UCI)
+- English Handwritten Characters Dataset (kaggle)
 
 ## Project Structure
 - notebook/ - Jupyter Notebook implementing all steps
@@ -22,8 +22,8 @@ Exp4 - Ensemble Prediction and Decision Tree Evaluation on Wisconsin Diagnostic 
 ## Running the Code
 1. Clone the repository:
     ```bash
-    git clone https://github.com/ISRajesh183/MLLabA4.git
-    cd MLLabA4
+    git clone https://github.com/ISRajesh183/MLLabA5.git
+    cd MLLabA5
     ```
 2. Install dependencies:
     ```bash
